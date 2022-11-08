@@ -1,0 +1,2 @@
+# MoroccoTravel
+New training site
